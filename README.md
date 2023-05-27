@@ -53,7 +53,7 @@ To do that you need to install [Docker](https://docs.docker.com/get-docker/) on 
 Then execute `docker compose -f docker-compose.prod.yml up -d` command in your terminal. The `MYSQL_PASSWORD` env will be automatically
 applied to the rest of the config.
 
-> When using a Virtual Private Server (VPS) we recommend having at least 2GB of RAM memory
+> When using a Virtual Private Server (VPS) we recommend having at least 2GB of RAM memory.
 
 **Quick deploy:**
 ```bash
